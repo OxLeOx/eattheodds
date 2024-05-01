@@ -1,0 +1,18 @@
+{
+	"goerli": {
+		"address": "0x40398C58d2544B29Fb0AD38285c179D2eaf3ffd8",
+		"arguments": [
+			{
+				"type": "BigNumber",
+				"hex": "0x038d7ea4c68000"
+			},
+			1664906400,
+			1665511200,
+			"0xc0916dbd459b71d1f004206eb7fc0f203b1be98e93736c9d624cad3209a9433c",
+			"Eat the Odds Game",
+			"ETO",
+			"https://oddserver.fob.dev/api/tokens/metadata/"
+		],
+		"launchBlock": 7826058
+	}
+}
